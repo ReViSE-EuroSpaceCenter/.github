@@ -1,1 +1,3 @@
-# .github
+# ReViSE - Recherche de Vie Sur Europe
+
+This project includes the digital component of ReViSE - Recherche de Vie Sur Europe - a board game designed to help secondary students understand how AI functions and its impact on jobs. It is part of an awareness and critical education initiative focused on AI, encouraging collective reflection, experimentation, and practical application. Six teams collaborate to address challenges based on specific AI use cases.
