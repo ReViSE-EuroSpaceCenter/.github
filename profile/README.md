@@ -1,12 +1,3 @@
-## Hi there 👋
+# ReViSE - Recherche de Vie Sur Europe
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This project includes the digital component of ReViSE - Recherche de Vie Sur Europe - a board game designed to help secondary students understand how AI functions and its impact on jobs. It is part of an awareness and critical education initiative focused on AI, encouraging collective reflection, experimentation, and practical application. Six teams collaborate to address challenges based on specific AI use cases.
